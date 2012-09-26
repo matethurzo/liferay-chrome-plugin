@@ -1,0 +1,2 @@
+liferay-chrome-plugin
+=====================
