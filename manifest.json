@@ -1,0 +1,12 @@
+{
+  "name": "Liferay extension for Chrome",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "A handy extension for your Liferay instance in your favorite browser.",
+  "browser_action": {
+    "default_icon": "liferay.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
